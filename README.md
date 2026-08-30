@@ -1,6 +1,8 @@
 ### Hello there, I'm Deer 👋
 - I love open source. ❤️
 - [🏠Home](https://lllh.de)
+- [📧Email](mailto:deer@lllh.de)
+- [⚡爱发电](https://www.ifdian.net/a/deerwan)
 
 ![skills](https://skillicons.dev/icons?perline=14&i=astro,docker,git,github,githubactions,go,linux,mysql,nextjs,nodejs,py,react,redis,rust,sqlite,tailwind,ts,vercel,vite,vscode,vue)
 
